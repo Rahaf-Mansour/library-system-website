@@ -64,6 +64,3 @@ This project was created with the goal of developing a user-friendly library sys
 
 If you have any questions or require further assistance, please feel free to contact me.
 
-Let's embark on a reading adventure with the Library System Website!
-
-#librarysystem #webdevelopment #ASP.NET #HTML5 #CSS3
