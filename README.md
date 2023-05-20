@@ -22,7 +22,7 @@ To explore the Library System Website locally on your machine, follow these step
 1. Clone this repository to your local machine or download the ZIP file and extract its contents.
 
 ```shell
-git clone 
+git clone https://github.com/Rahaf-Mansour/library-system-website.git
 ```
 
 2. Set up a local development environment for ASP.NET.
@@ -56,7 +56,7 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 
 ## License
 
-
+This project is licensed under the MIT License. See the [[LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)] file for details.
 
 ## Acknowledgments
 
